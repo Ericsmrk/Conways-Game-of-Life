@@ -79,16 +79,16 @@ Israel Perez - (iperez17@mail.fresnostate.edu) - email
 
 ## Links
 
-Project Link: [Conways Game of Life Github](https://github.com/IPrz17/cs154-CGOL)  
+Project Link: [Github](https://github.com/IPrz17/cs154-CGOL)  
 Report: []()
 Presentation: [Conways Game of Life Presentation](https://www.canva.com/design/DAEbnFlKmKg/kMN2j9xyyhvY3g6JE0sljQ/edit)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* California State University Fresno, Computer Science Department [](http://www.fresnostate.edu/csm/csci/)
-* Dr. Athanasios Aris (Thanos) Panagopoulos [](http://www.apanagopoulos.com/)
-* John Horton Conway [](https://en.wikipedia.org/wiki/John_Horton_Conway#Conway's_Game_of_Life)
+* California State University Fresno, Computer Science Department [Website](http://www.fresnostate.edu/csm/csci/)
+* Dr. Athanasios Aris (Thanos) Panagopoulos [Website](http://www.apanagopoulos.com/)
+* John Horton Conway [Wiki](https://en.wikipedia.org/wiki/John_Horton_Conway#Conway's_Game_of_Life)
 <!-- * []() -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
