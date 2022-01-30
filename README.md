@@ -86,9 +86,9 @@ Presentation: [Conways Game of Life Presentation](https://www.canva.com/design/D
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* California State University Fresno, Computer Science Department [http://www.fresnostate.edu/csm/csci/]()
-* Dr. Athanasios Aris (Thanos) Panagopoulos [http://www.apanagopoulos.com/]()
-* John Horton Conway [https://en.wikipedia.org/wiki/John_Horton_Conway#Conway's_Game_of_Life]()
+* California State University Fresno, Computer Science Department [](http://www.fresnostate.edu/csm/csci/)
+* Dr. Athanasios Aris (Thanos) Panagopoulos [](http://www.apanagopoulos.com/)
+* John Horton Conway [](https://en.wikipedia.org/wiki/John_Horton_Conway#Conway's_Game_of_Life)
 <!-- * []() -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
